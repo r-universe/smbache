@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ensurer"]
+	path = ensurer
+	url = https://github.com/smbache/ensurer
+	shallow = true
+	registered = true
