@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "blatr"]
-	path = blatr
-	url = https://github.com/smbache/blatr
 [submodule "ensurer"]
 	path = ensurer
 	url = https://github.com/smbache/ensurer
